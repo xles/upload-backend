@@ -1,0 +1,9 @@
+{
+	"database" : {
+		"server" : "127.0.0.1",
+		"user" : "the_user",
+		"password" : "the_password",
+		"database" : "the_database",
+		"port" : "3306"
+	}
+}
